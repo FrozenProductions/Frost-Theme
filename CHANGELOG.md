@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.5] - 2024-12-31
 
 -   Added icon
+
+## [0.0.6] - 2024-12-31
+
+-   Updated previews
