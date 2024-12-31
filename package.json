@@ -1,8 +1,9 @@
 {
-  "name": "frozen-theme",
-  "displayName": "Frozen-Theme",
+  "name": "frost-theme",
+  "displayName": "Frost-Theme",
   "description": "A modern theme blending winter frost aesthetics with Discord's signature colors.",
   "version": "0.0.4",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.93.0"
   },
