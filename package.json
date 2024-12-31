@@ -1,0 +1,47 @@
+{
+  "name": "frozen-theme",
+  "displayName": "Frozen-Theme",
+  "description": "A modern theme blending winter frost aesthetics with Discord's signature colors.",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrozenProductions/Frost-Theme"
+  },
+  "publisher": "FrozenProductions",
+  "author": {
+    "name": "FrozenProductions",
+    "url": "https://github.com/FrozenProductions"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frost Arctic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frost-Arctic-color-theme.json"
+      },
+      {
+        "label": "Frost Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frost-Aurora-color-theme.json"
+      },
+      {
+        "label": "Frost Luminous",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frost-Luminous-color-theme.json"
+      },
+      {
+        "label": "Frost Day",
+        "uiTheme": "vs",
+        "path": "./themes/Frost-Day-color-theme.json"
+      }
+    ]
+  }
+}
+
