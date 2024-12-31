@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.4] - 2024-12-31
 
 -   Added new theme: Frost Day
+
+## [0.0.5] - 2024-12-31
+
+-   Added icon
