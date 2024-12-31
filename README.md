@@ -1,6 +1,6 @@
 # Frozen Theme 🌨️
 
-A modern Visual Studio Code theme collection blending winter frost aesthetics colors. The Frozen Theme suite includes four distinct variants to match your coding style and preferences.
+A modern Visual Studio Code theme collection blending winter frost aesthetics colors. The Frost Theme suite includes four distinct variants to match your coding style and preferences.
 
 ## Theme Variants
 
