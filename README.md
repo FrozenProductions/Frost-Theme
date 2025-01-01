@@ -4,6 +4,11 @@ A modern Visual Studio Code theme collection blending winter frost aesthetics co
 
 ## Theme Variants
 
+### Frost Night
+
+![Frost Night Preview](https://raw.githubusercontent.com/FrozenProductions/Frost-Theme/main/assets/preview-night.png)
+A dark theme that brings the crisp clarity of a winter night to your code.
+
 ### Frost Arctic
 
 ![Frost Arctic Preview](https://raw.githubusercontent.com/FrozenProductions/Frost-Theme/main/assets/preview-arctic.png)

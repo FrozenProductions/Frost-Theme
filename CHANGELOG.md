@@ -36,3 +36,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 -   Fixed luminous theme notification colors
 -   Added notification button colors to all themes
+
+## [0.0.8] - 2025-01-01
+
+-   Added new theme: Frost Night
