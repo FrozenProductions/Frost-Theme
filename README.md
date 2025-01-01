@@ -37,7 +37,7 @@ A light theme that brings the crisp clarity of a winter morning to your code.
 
 1. Open Visual Studio Code
 2. Press `Ctrl+P` / `Cmd+P`
-3. Run `ext install frozen-theme`
+3. Run `ext install frost-theme`
 4. Select your preferred variant:
     - File > Preferences > Color Theme
     - Search for "Frost"

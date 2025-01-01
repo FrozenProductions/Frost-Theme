@@ -31,3 +31,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.6] - 2024-12-31
 
 -   Updated previews
+
+## [0.0.7] - 2025-01-01
+
+-   Fixed luminous theme notification colors
+-   Added notification button colors to all themes
